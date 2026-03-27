@@ -81,12 +81,12 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelnyaayo&show_icons=true&locale=en&layout=compact" alt="emmanuelnyaayo" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelnyaayo&show_icons=true&locale=en&layout=compact" alt="emmanuelnyaayo" /></p> -->
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnyaayo&show_icons=true&locale=en" alt="emmanuelnyaayo" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnyaayo&show_icons=true&locale=en" alt="emmanuelnyaayo" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelnyaayo" alt="emmanuelnyaayo" />
 </p>
