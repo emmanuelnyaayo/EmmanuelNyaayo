@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Emmanuel Nyaayo
 
-### A passionate Software Engineer from Kenya, Africa
+### Frontend Engineer building clean, responsive web apps.
 
 <p>&nbsp;</p>
 
@@ -16,19 +16,19 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuelnyaayo" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuelnyaayo?logo=twitter&style=for-the-badge" alt="emmanuelnyaayo" /></a> </p>
 
-- 🔭 I'm currently working on **An Android project**
+- 🔭 I'm currently working on **building responsive web apps with Next.js, TypeScript & Tailwind.**
 
-- 🌱 I'm currently learning **Kotlin and Android Development**
+- 🌱 I'm currently learning **scalable frontend systems with React and TypeScript.**
 
-- 💬 Ask me about **React, Django and Web Development**
+- 💬 Ask me about **Responsive UIs, React architecture, and clean frontend code.**
 
-- 📫 How to reach me **+254790693909**
+- 📫 How to reach me **manuelnyaayo@gmail.com**
 
-- ⚡ Fun fact **I am a fun person to work with!**
+- ⚡ Fun fact **I enjoy turning messy ideas into clean, usable interfaces.**
 
 - 📝 I regularly write articles on **[https://medium.com/@emmanuelnyaayo](https://medium.com/@emmanuelnyaayo)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1WpA1suzPvR-F_f_T0wPyMxIC9CAwbbz4/view?usp=sharing](https://drive.google.com/file/d/1WpA1suzPvR-F_f_T0wPyMxIC9CAwbbz4/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link](https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link)**
 
 <p>&nbsp;</p>
 
@@ -48,25 +48,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android"     width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelnyaayo&show_icons=true&locale=en&layout=compact" alt="emmanuelnyaayo" /></p>
