@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Emmanuel Nyaayo
 
-### Frontend Engineer building clean, responsive web apps.
+### Android Development Trainer | Frontend Engineer building clean, responsive web apps.
 
 <p>&nbsp;</p>
 
