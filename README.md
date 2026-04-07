@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on **[https://medium.com/@emmanuelnyaayo](https://medium.com/@emmanuelnyaayo)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link](https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link)**
+<!-- - 📄 Know about my experiences **[https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link](https://drive.google.com/file/d/18lLdTU8Gx7c9yysfUe9lFs9t4mcS_4Vs/view?usp=drive_link)** -->
 
 <p>&nbsp;</p>
 
